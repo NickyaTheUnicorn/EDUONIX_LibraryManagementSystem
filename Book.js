@@ -1,3 +1,4 @@
+// Renner Yannick
 class Book {
 
     constructor(ean, bookNumber, authors, libraryBranch, genres, publisher, nbOfPages, language, versionNumber, isPresent)

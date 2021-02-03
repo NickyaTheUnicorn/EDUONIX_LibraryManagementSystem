@@ -1,3 +1,4 @@
+// Renner Yannick
 class Genre {
     constructor(name, books, authors) {
         this.name = name;

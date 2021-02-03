@@ -1,3 +1,4 @@
+// Renner Yannick
 class Author {
     constructor(firstName, lastName, birthday, books, numberOfBooks, primaryLanguage, nationality) {
         this.firstName = firstName;
